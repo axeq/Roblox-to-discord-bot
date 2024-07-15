@@ -1,0 +1,4 @@
+asyncio==3.4.3
+py-cord==2.5.0
+requests==2.31.0
+Flask==3.0.3
